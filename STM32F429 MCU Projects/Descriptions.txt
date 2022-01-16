@@ -1,0 +1,19 @@
+lab1: LEDs Flashing
+
+	- Tools used: Timers, external interrupts
+
+lab2: Reaction Time Tester
+
+	- Tools used: Programming GPIOs, external interrupt handlers, bit manipulation
+
+lab3: Real-Time Clock
+
+	- Tools used: I2C serial communication protocol, EEPROM, timers
+
+lab4: PWM Fan Controller
+
+	- Tools used: ADC converter, temperature sensor, operational amplifier, PWM
+
+lab5: Stepper Motor Control
+
+	- Tools used: H-bridge, stepper motor
